@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "415f2639-94c3-d0b5-c9fb-3fd8adaaa6cf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "topics-in-lie-theory-mathematical-ideas-and-notions-of-quantum-field-theory"
+  },
+  "course_title": "Topics in Lie Theory:  Mathematical Ideas and Notions of Quantum Field Theory",
+  "hide_download": false,
+  "course_description": "The development of quantum field theory and string theory in the last four decades led to an unprecedented level of interaction between physics and mathematics, incorporating into physics such \u201cpure\u201d areas of mathematics as algebraic topology, algebraic geometry, representation theory, combinatorics, and even number theory. This interaction has been highly fruitful in both directions, and led to a necessity for physicists to know basic mathematics and for mathematicians to know basic physics. Physicists have been quick to learn, and nowadays good physicists know relevant areas of mathematics as deeply as professional mathematicians. On the other hand, many mathematicians have been slower, intimidated by the absence of rigor in physical texts, and, more importantly, by a different manner of presentation. In particular, even the basic setting of quantum field theory, necessary for understanding its more advanced (and mathematically exciting) parts, is already largely unfamiliar to mathematicians. Nevertheless, many of the basic ideas of quantum field theory can in fact be presented in a completely rigorous and mathematical way. Doing so will be the main goal of this course.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.748",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "topics-in-lie-theory-mathematical-ideas-and-notions-of-quantum-field-theory"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "9f9db5ed-7815-4c2e-bfe9-478c9a767953",
+  "site_short_id": "18.748-spring-2023",
+  "site_url_path": "courses/18-748-topics-in-lie-theory-mathematical-ideas-and-notions-of-quantum-field-theory-spring-2023"
+}
