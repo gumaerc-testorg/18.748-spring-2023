@@ -31,7 +31,7 @@ The development of quantum field theory and string theory in the last four decad
 
 ### Textbooks and Notes
 
-A recommended textbook for the course is Quantum Fields and Strings: A Course for Mathematicians, AMS, 1998 (but I won't closely follow it). Instead, I will have typed notes and initially follow the notes given here [Geometry and Quantum Field Theory](https://ocw.mit.edu/courses/18-238-geometry-and-quantum-field-theory-fall-2002/)   
+A recommended textbook for the course is Quantum Fields and Strings: A Course for Mathematicians, AMS, 1998 (but I won't closely follow it). Instead, I will have typed notes and initially follow the notes given here {{% resource_link "52ba79d3-83b7-4a27-8dc0-b50442d9d01a" "Geometry and Quantum Field Theory" %}}   
 
 ### Assignments
 
